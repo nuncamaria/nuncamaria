@@ -8,15 +8,17 @@ I'm a <b>Junior Front-end Developer</b> and <b>Graphic Designer</b> based in Mur
 
 After 3 years working as a graphic designer I discovered the world of web development and then I began to study on my own before deciding to do a Bootcamp.
 
-📚 I did a <b>Front-end Development ❤️</b> Bootcamp
+- 📚 I did a <b>Front-end Development ❤️</b> Bootcamp
 
-🌱 Working to become a pro in CSS, JavaScript and React
+- 🌱 Working to become a pro in CSS, JavaScript and React
 
-🖍️ Passionate about <b>UI / UX</b>
+- 🖍️ Passionate about <b>UI / UX</b>
 
-🔍 Exploring TypeScript and Angular
+- 🔍 Exploring TypeScript and Angular
 
-😄
+- 😄 Pronouns: She/Her
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialemon&show_icons=true&title_color=343434&icon_color=343434)
 
