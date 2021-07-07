@@ -1,8 +1,20 @@
-Hi there, I'm María 👋
+# Hi there, I'm María 👋
 
-I'm a student of <b>graphic design</b> based in Murcia, Spain ☀️. 
 
-Also I'm learning <b>frontend development ❤️</b> by my own and I'm interested in <b>UI / UX</b>.
+I'm a <b>Junior Front-end Developer</b> and <b>Graphic Designer</b> based in Murcia, Spain ☀️. 
+
+
+## About me 👀
+
+After 3 years working as a graphic designer I discovered the world of web development and then I began to study on my own before deciding to do a Bootcamp.
+
+📚 I did a <b>Front-end Development ❤️</b> Bootcamp
+
+🌱 Working to become a pro in CSS, JavaScript and React
+
+🖍️ Passionate about <b>UI / UX</b>
+
+🔍 Exploring TypeScript and Angular
 
 😄
 
