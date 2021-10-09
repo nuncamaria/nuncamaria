@@ -1,7 +1,7 @@
 # Hi there, I'm María 👋
 
 
-I'm a <b>Junior Front-end Developer</b> and <b>Graphic Designer</b> based in Murcia, Spain ☀️. 
+I'm a <b>Junior Mobile Engineer</b>, <b>Junior Front-end Developer</b> and <b>Graphic Designer</b> based in Murcia, Spain ☀️. 
 
 
 ## About me 👀
@@ -10,11 +10,9 @@ After 3 years working as a graphic designer I discovered the world of web develo
 
 - 📚 I did a <b>Front-end Development ❤️</b> Bootcamp
 
-- 🌱 Working to become a pro in CSS, JavaScript and React
+- 🌱 Right now working as a Junior Mobile Engineer
 
 - 🖍️ Passionate about <b>UI / UX</b>
-
-- 🔍 Exploring TypeScript and Angular
 
 - 😄 Pronouns: She/Her
 
