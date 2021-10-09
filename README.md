@@ -10,7 +10,7 @@ After 3 years working as a graphic designer I discovered the world of web develo
 
 - 📚 I did a <b>Front-end Development ❤️</b> Bootcamp
 
-- 🌱 Right now working as a Junior Mobile Engineer
+- 🌱 Right now working as a <b>Junior Mobile Engineer</b>
 
 - 🖍️ Passionate about <b>UI / UX</b>
 
