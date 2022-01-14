@@ -15,9 +15,3 @@ After 3 years working as a graphic designer I discovered the world of web develo
 - 🖍️ Passionate about <b>UI / UX</b>
 
 - 😄 Pronouns: She/Her
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialemon&show_icons=true&title_color=343434&icon_color=343434)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialemon&layout=compact&title_color=343434)](https://github.com/anuraghazra/github-readme-stats)
