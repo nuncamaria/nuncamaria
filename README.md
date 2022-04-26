@@ -10,6 +10,8 @@ After 3 years working as a graphic designer I discovered the world of web develo
 
 - 📚 I did a <b>Front-end Development</b> Bootcamp
 
+- 🤖 Self-taught Android developer
+
 - 🌱 Right now working as a <b>Junior Android Developer</b> in the mentorship program of [Wefox](https://www.wefox.com/en-de)
 
 - 🖍️ Passionate about <b>UI / UX</b>
