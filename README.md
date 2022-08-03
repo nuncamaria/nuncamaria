@@ -1,7 +1,7 @@
 # Hi there, I'm María 👋
 
 
-I'm a <b>Junior Mobile Developer</b>, <b>Junior Front-end Developer</b> and <b>Graphic Designer</b> based in Murcia, Spain ☀️. 
+I'm a <b>Junior Mobile Developer</b> with some knowledge of front-end development and graphic design based in Murcia, Spain ☀️. 
 
 
 ## About me 👀
