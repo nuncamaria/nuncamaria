@@ -1,7 +1,7 @@
 # Hi there, I'm María 👋
 
 
-I'm a <b>Junior Mobile Developer</b> with some knowledge of front-end development and graphic design based in Murcia, Spain ☀️. 
+I'm a <b>Junior Mobile Developer</b> with some knowledge of front-end development and graphic design based in Barcelona, Spain ☀️. 
 
 
 ## About me 👀
@@ -12,7 +12,7 @@ After 3 years working as a graphic designer I discovered the world of web develo
 
 - 🤖 Self-taught Android developer
 
-- 🌱 Right now working as a <b>Junior Android Developer</b> in the mentorship program of [Wefox](https://www.wefox.com/en-de)
+- 🌱 Right now working as a <b>Android Developer</b>
 
 - 🖍️ Passionate about <b>UI / UX</b>
 
