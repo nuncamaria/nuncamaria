@@ -2,23 +2,25 @@
 
 
 I'm an...
-- <b>Android Developer</b>
-- Web front-end curious
-- UI & UX enthusiast
-- Graphic arts passionate
+- <b>Graphic designer</b> specialized in <b>UI/UX</b> with +3 years of experience as an <b>Android developer.</b>
+- I design digital solutions with a developer's perspective.
 
-based in Barcelona, Spain ☀️
+based in Murcia, Spain ☀️
 
-🌐 [nuncamaria.dev](https://nuncamaria.dev/)
+🌐 [nuncamaria.com](https://nuncamaria.com/)
 
 
 ## About me 👀
 
-After 3 years working as a graphic designer and with the desire to explore a more diversified and technology-related path, I got into Front-End development. First I obtained experience in web development and afterwards in mobile with Android native, which is what I am currently working with as of this moment.
+I'm a designer with a background in software development.
+
+I started in illustration and graphic design, where I learned to approach problems visually and from unexpected angles. Curious about how interfaces are built, I moved into front-end development and then Android, where I worked for three years in Kotlin and Jetpack Compose. Today I bring both sides together in UI/UX, designing with an understanding of how things get built.
+
+- 📚 Graphic design degree with master's specialization in UI/UX.
 
 - 📚 I did a <b>Front-end Development</b> Bootcamp (HTML, CSS, JavaScript, React)
 
-- 🤖 Self-taught Android developer (Kotlin, Jetpack Compose & XML, MVVM, Flows)
+- 🤖 Self-taught Android developer (Kotlin, Jetpack Compose & XML, Clean Architecture)
 
 - 🌱 Right now working as a <b>Android Developer</b>
 
